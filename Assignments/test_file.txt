@@ -1,1 +1,1 @@
-b'+\xe7\xb6$\xa3n)\xd4'
+This is a test message for the DES encryption/decryption!       
